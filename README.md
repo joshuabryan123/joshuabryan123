@@ -6,17 +6,15 @@ I am passionate about **Data Science, Data Analytics, dan AI**.
 f you'd like to connect, feel free to follow my [LinkedIn](https://linkedin.com/in/joshua-bryan-wijaya) ya.
 
 ## 📊 GitHub Stats:
+</div>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.shion.dev/api?username=joshuabryan123&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=joshuabryan123&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-    </td>
-  </tr>
-</table>
+| ![Joshua Bryan Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joshuabryan123&mode-daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE") | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joshuabryan123&hide=Html&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joshuabryan123&theme=midnight_purple) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshuabryan123&theme=midnight_purple) | ![](https://streak-stats.demolab.com?user=joshuabryan123&locale=en&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3) |
+| :-: | :-: |
+
+--- 
 
 * 🪴 I'm currently learning **Generative AI & LLM Fine-Tuning**
 * 💬 Feel free to ask me about **Data Science, Data Analytics, Machine Learning, and AI**
