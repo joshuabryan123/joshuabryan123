@@ -2,19 +2,25 @@
 
 # Hi, Happy to see you here 😇
 
-Perkenalkan nama saya **Joshua Bryan Wijaya**.
-Saya seorang **Mahasiswa Statistika & Sains Data** di **[IPB University](https://ipb.ac.id)**.
-Saya tertarik pada bidang **Data Science, Data Analytics, dan AI**.
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://linkedin.com/in/joshua-bryan-wijaya)ku ya.
+My name is **Joshua Bryan Wijaya**.
+I am a **Mahasiswa Statistika & Sains Data** at **[IPB University](https://ipb.ac.id)**.
+I am passionate about **Data Science, Data Analytics, dan AI**.
+f you'd like to connect, feel free to follow my [LinkedIn](https://linkedin.com/in/joshua-bryan-wijaya)ku ya.
 
-## Github Statistic
+## 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshuabryan123&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuabryan123&layout=compact&theme=tokyonight" width="48%" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api?username=joshuabryan123&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=joshuabryan123&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    </td>
+  </tr>
+</table>
 
-* 🪴 I'm currently learning **[HAL YANG SEDANG DIPELAJARI, MISAL: Advanced Machine Learning / MLOps]**
+* 🪴 I'm currently learning **Generative AI & LLM Fine-Tuning**
 * 💬 Feel free to ask me about **Data Science, Data Analytics, Machine Learning, and AI**
 * 📫 How to reach me: **joshuabryan124@gmail.com**
 * ⚡ Fun fact: **I wanna be a matcha-flavored mochi**
