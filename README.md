@@ -1,5 +1,3 @@
-![boom](img/optim.gif)
-
 # Hi, Happy to see you here 😇
 
 My name is **Joshua Bryan Wijaya**.
@@ -32,3 +30,5 @@ f you'd like to connect, feel free to follow my [LinkedIn](https://linkedin.com/
 </p>
 
 ---
+
+![boom](img/optim.gif)
