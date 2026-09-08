@@ -10,10 +10,10 @@ f you'd like to connect, feel free to follow my [LinkedIn](https://linkedin.com/
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.shion.dev/api?username=joshuabryan123&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" />
+      <img src="https://github-readme-stats.shion.dev/api?username=joshuabryan123&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=joshuabryan123&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=joshuabryan123&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     </td>
   </tr>
 </table>
