@@ -3,7 +3,7 @@
 My name is **Joshua Bryan Wijaya**.
 I am a **Statistics & Data Science student** at **[IPB University](https://ipb.ac.id)**.
 I am passionate about **Data Science, Data Analytics, dan AI**.
-f you'd like to connect, feel free to follow my [LinkedIn](https://linkedin.com/in/joshua-bryan-wijaya)ku ya.
+f you'd like to connect, feel free to follow my [LinkedIn](https://linkedin.com/in/joshua-bryan-wijaya) ya.
 
 ## 📊 GitHub Stats:
 
