@@ -26,5 +26,3 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](http
 </p>
 
 ---
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/joshuabryan123/joshuabryan123/output/github-contribution-grid-snake.svg)
