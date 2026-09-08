@@ -31,8 +31,10 @@ f you'd like to connect, feel free to follow my [LinkedIn](https://linkedin.com/
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/joshuabryan123/joshuabryan123/output/pacman-contribution-graph.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joshuabryan123/joshuabryan123/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joshuabryan123/joshuabryan123/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joshuabryan123/joshuabryan123/output/pacman-contribution-graph.svg">
+</picture>
 
 ![boom](img/optim.gif)
